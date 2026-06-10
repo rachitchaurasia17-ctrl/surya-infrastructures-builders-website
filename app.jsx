@@ -90,7 +90,7 @@ function Nav({ onContact }) {
             <Crown dark={onDark} />
             <div style={{ lineHeight: 1.05 }}>
               <div className="clash" style={{ fontSize: 20, letterSpacing: "-0.03em", color: navInk, transition: "color 250ms ease" }}>
-                Surya Infrastructures & Builders <span style={{ fontFamily: "Gambarino, Georgia, serif", fontStyle: "italic", fontWeight: 400, letterSpacing: "-0.02em" }}>Realty</span>
+                Surya Infrastructures & Builders
               </div>
               <div className="uc" style={{ fontSize: 10, color: navMute, letterSpacing: "0.16em", transition: "color 250ms ease" }}>Real Estate Agency · Mohali</div>
             </div>
@@ -1015,7 +1015,7 @@ function Principal() {
           </div>
           <div className="principal-right">
             <div className="manifesto-eyebrow" style={{ marginBottom: 0 }}>Our Expertise · Mohali Tri-City</div>
-            <h2 className="principal-name">Surya Infrastructures & Builders <em>Realty</em></h2>
+            <h2 className="principal-name">Surya Infrastructures & Builders</h2>
             <p className="principal-bio">
               Dedicated to placing quality property in the Mohali tri-city. We specialize in residential, commercial and land mandates — known for thorough consultancy and transparent guidance from discovery to closing.
             </p>
@@ -1283,7 +1283,7 @@ function FooterMast() {
   return (
     <footer className="foot">
       <div className="container">
-        <h2 className="foot-mast">Surya Infrastructures & Builders <em>Realty</em></h2>
+        <h2 className="foot-mast">Surya Infrastructures & Builders</h2>
         <div className="foot-cols">
           <div>
             <div className="foot-h">The Desk</div>
